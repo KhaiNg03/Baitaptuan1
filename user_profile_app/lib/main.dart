@@ -22,7 +22,7 @@ class ProfileScreen extends StatelessWidget {
     double screenHeight = MediaQuery.of(context).size.height;
 
     // Set the height to be twice the width
-    double adjustedHeight = screenWidth * 2;
+    double adjustedHeight = screenWidth * 3;
 
     return Scaffold(
       backgroundColor: Colors.white,
